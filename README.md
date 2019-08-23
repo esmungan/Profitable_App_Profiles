@@ -1,4 +1,4 @@
-# github-upload
+# Profitable_App_Profiles
 
 This project is done as a part of Python for Data Science: Fundamentals class on DataQuest. 
 
